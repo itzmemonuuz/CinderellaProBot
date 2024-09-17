@@ -8,7 +8,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 
 <p align="center">
   <a href="https://github.com/itzmemonuuz/CinderellaProBot/fork">
-    <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/itzmemonuuz/CinderellaProBot?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/Sur-vivor/CinderellaProBot">
